@@ -10,4 +10,5 @@
     2) Text analysis — analyzing the sentiment for each tweet and classfied them accordingly.
     3) Story telling — Visualize the results using basic plot libraries.
     
-    After analysing the data it was found that the data will require some preprocessing in order to avoid incorrect classfication. e.g. few tweets are not against the brexits but they shows signs of negative sentiment so, was classified as negative. 
+    After analysing the data it was found that the data will require some preprocessing in order to avoid incorrect classfication. 
+    e.g. few tweets are not against the brexits but they shows signs of negative sentiment so, was classified as negative. 
